@@ -78,7 +78,7 @@ class PlaywrightSteamScraper:
             locale="uk-UA",
             viewport={"width": 1920, "height": 1080},
             extra_http_headers={
-                "Accept-Language": config("Accept-Language")
+                "Accept-Language": "uk-UA,uk;q=0.9,en-US;q=0.8,en;q=0.7"
             },
         )
 
