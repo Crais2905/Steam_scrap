@@ -12,7 +12,7 @@ FastAPI-сервіс для пошуку ігор Steam (Steam Web API) і ск�
 ## Встановлення та запуск
 
 ```bash
-git clone <repo_url>
+git clone https://github.com/Crais2905/Steam_scrap.git
 cd Steam_scrap-main
 
 python3 -m venv venv
